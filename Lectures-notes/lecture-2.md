@@ -52,8 +52,5 @@ we can do the same thins with strings:
 
 and, or  
 
-![True/False val](./pics/lecture-2-screenshot-true-false-val.jpeg)
-
-<img src="./pics/lecture-2-screenshot-true-false-val.jpeg" alt="True/False val">
-
+![True/False val](./pics/img-2-1.png)
 
